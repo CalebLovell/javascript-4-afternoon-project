@@ -163,7 +163,7 @@ new ProgressiveManager();
         - The anonymous function should decrease wear_and_tear_count by 10, and set needs_reboot to false
 */
 
-class Machine {
+class Machine { //github Desktop is the best
   constructor() {
     this.widgets_made_count = 0;
     this.wear_and_tear_count = 0;
